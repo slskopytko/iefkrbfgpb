@@ -1,4 +1,4 @@
-- pipeline: mxkiggbnbp
+- pipeline: Mxkiggbnbp
   refs:
   - refs/heads/master
   on: CLICK
